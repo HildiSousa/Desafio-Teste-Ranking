@@ -1,2 +1,2 @@
 # Desafio-Teste-Ranking
-Segue colab com teste de ETL, visando mensurar a curva de aprendizavem em determinado intervalo de tempo.
+Segue colab com teste de ETL, realizado como o objetivo de mensurar a curva de aprendizagem em determinado intervalo de tempo.
